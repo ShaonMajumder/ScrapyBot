@@ -5,8 +5,14 @@ A scrapper for gathering big amount of data.
 # Purpose
 - Gathering dataset for Deep Learning
 
-# Requirements
+# Prequisites
+Python 3
 
+# Requirements
+shaonutil==0.0.0.17.1
+wget==3.2
+selenium==3.141.0
+beautifulsoup4==4.8.2
 
 # Caution
 Use open tools for educational purpose only, scrapping is not legal in all cases.
