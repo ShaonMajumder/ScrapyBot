@@ -1,0 +1,4 @@
+shaonutil==0.0.0.17.1
+wget==3.2
+selenium==3.141.0
+beautifulsoup4==4.8.2
